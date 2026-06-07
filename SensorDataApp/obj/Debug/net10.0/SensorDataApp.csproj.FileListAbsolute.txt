@@ -1,0 +1,14 @@
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\bin\Debug\net10.0\SensorDataApp.exe
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\bin\Debug\net10.0\SensorDataApp.deps.json
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\bin\Debug\net10.0\SensorDataApp.runtimeconfig.json
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\bin\Debug\net10.0\SensorDataApp.dll
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\bin\Debug\net10.0\SensorDataApp.pdb
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\SensorDataApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\SensorDataApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\SensorDataApp.AssemblyInfo.cs
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\SensorDataApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\SensorDataApp.dll
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\refint\SensorDataApp.dll
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\SensorDataApp.pdb
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\SensorDataApp.genruntimeconfig.cache
+C:\Users\User\Documents\SEM 2\OOP\SensorDataApp\obj\Debug\net10.0\ref\SensorDataApp.dll
